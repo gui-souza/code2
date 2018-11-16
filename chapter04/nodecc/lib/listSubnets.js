@@ -1,7 +1,7 @@
 const jmespath = require('jmespath');
 const AWS = require('aws-sdk');
 const ec2 = new AWS.EC2({
-  region: 'us-east-1'
+  region: 'sa-east-1'
 });
 
 module.exports = (cb) => {
