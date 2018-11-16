@@ -1,0 +1,8 @@
+{
+  "name": "etherpad-lite",
+  "description": "Etherpad Lite",
+  "scripts": {
+    "start": "bin/run.sh"
+  }
+} 
+
